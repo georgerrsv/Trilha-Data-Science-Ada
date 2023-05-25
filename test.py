@@ -10,3 +10,12 @@ def verifica_par():
         print("A soma dos números é ímpar.")
 
 verifica_par()
+
+def check_negativo():
+    x = float(input("Digite um número: "))
+    if (x < 0):
+        print("O número é negativo.")
+    else:
+        print("O número é positivo.")
+
+check_negativo()
