@@ -34,10 +34,8 @@
 - `git fetch`: puxa as alterações do repositório remoto para o repositório local
 - `git diff <branch> <branch>`: mostra as diferenças entre duas branches
 - `git diff <branch> <arquivo>`: mostra as diferenças entre um arquivo e uma branch
-- `git diff <branch> <arquivo>`: mostra as diferenças entre um arquivo e uma branch
 - `git diff --name-only <branch> <branch>`: mostra os nomes dos arquivos diferentes entre duas branches
 - `git diff --name-only <branch> <arquivo>`: mostra os nomes dos arquivos diferentes entre um arquivo e uma branch
-- `git merge <branch>`: faz o merge da branch especificada com a branch atual
 
 ### 7. Desfazendo coisas
 - `git restore --staged <arquivo>`: tira o arquivo do stage
