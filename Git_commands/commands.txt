@@ -1,0 +1,29 @@
+Lista de comandos utilizados para versionamento utilizando o GIT:
+
+1. git config -> faz as configurações do usuário e 
+e-mail através das tags user.name e user.email
+
+2. git init -> cria um repositório GIT vazio 
+ou reinicializa um já existente
+
+3. git status -> verifica o status daquele 
+repositório em seu estado atual
+
+4. git clone -> clona um repositório existente remotamente
+em um novo repositório local
+
+5. git add -> adiciona arquivos, ou atualizações em arquivos
+para a fila de commits a serem feito
+
+6. git commit -> salva as mudanças feitas no repositório local
+
+7. git push -> envia as mudanças feitas no repositório local
+para o repositório remoto
+
+8. git pull -> trás arquivos do repositório remoto para o
+repositório local 
+(faz a atualização desses repositórios remoto -> local)
+
+9. git branch -> cria ambientes isolados em um único repositório
+
+10. git merge -> une os ambientes isolados de branch em uma única branch
