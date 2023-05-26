@@ -25,13 +25,13 @@
 ### 5. Repositório remoto
 - `git remote add origin <url>`: adiciona um repositório remoto
 - `git push -u origin <branch>`: envia os commits para o repositório remoto
-- `git pull`: puxa as alterações do repositório remoto
+- `git pull`: puxa as alterações do repositório remoto diretamente para a branch atual
 - `git clone <url>`: clona um repositório remoto para o diretório local
 - `git remote -v`: mostra os repositórios remotos
 - `git remote rm <nome>`: remove o repositório remoto especificado
 
 ### 6. Resolvendo conflitos
-- `git fetch`: puxa as alterações do repositório remoto
+- `git fetch`: puxa as alterações do repositório remoto para o repositório local
 - `git diff <branch> <branch>`: mostra as diferenças entre duas branches
 - `git diff <branch> <arquivo>`: mostra as diferenças entre um arquivo e uma branch
 - `git diff <branch> <arquivo>`: mostra as diferenças entre um arquivo e uma branch
