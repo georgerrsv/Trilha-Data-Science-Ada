@@ -4,7 +4,7 @@
 
 #### Primeira aplicação.
 
-- Considere a função f(x) = (x^2 - 1) / (2x^2 - x - 1). Para que o denominador não seja 0, temos que 2x^2 - x - 1 != 0. Resolvendo a equação do segundo grau, temos que x != 1 e x != -1/2. Logo, o domínio de f é Df = R \ {1, -1/2}.
+- Considere a função `f(x) = (x^2 - 1) / (2x^2 - x - 1)`. Para que o denominador não seja 0, temos que 2x^2 - x - 1 != 0. Resolvendo a equação do segundo grau, temos que x != 1 e x != -1/2. Logo, o domínio de f é `Df = R \ {1, -1/2}`.
 
 - Nesse caso, quando x for qualquer valor diferente de 1 e -1/2, a função f(x) estará definida. Mas, e quando x = 1 ou x = -1/2? O que acontece com a função f(x)? Para responder a essa pergunta, vamos calcular os limites laterais de f(x) quando x tende a 1 e quando x tende a -1/2.
 

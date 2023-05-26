@@ -4,11 +4,11 @@
 
 #### Definição de Função
 
-- Uma função é uma relação entre dois conjuntos, onde cada elemento do primeiro conjunto está associado a um único elemento do segundo conjunto.
+- Uma `função` é uma relação entre dois conjuntos, onde cada elemento do primeiro conjunto está associado a um único elemento do segundo conjunto.
 
 #### Definição de produto cartesiano
 
-- Produto cartesiano é definido como o conjunto de todos os pares ordenados (A, B) onde a são todos os elementos que pertencem ao conjunto `A` e b pertence ao conjunto `B`.
+- `Produto cartesiano` é definido como o conjunto de todos os pares ordenados (A, B) onde a são todos os elementos que pertencem ao conjunto `A` e b pertence ao conjunto `B`.
 
 - Considere o conjunto `A` = {1, 2, 3} e o conjunto `B` = {4, 5, 6}. O produto cartesiano entre `A` e `B` é dado por: `A` x `B` = {(1, 4), (1, 5), (1, 6), (2, 4), (2, 5), (2, 6), (3, 4), (3, 5), (3, 6)}.
 
@@ -16,7 +16,7 @@
 
 #### Definição de relação
 
-- Uma relação é um subconjunto do produto cartesiano entre dois conjuntos.
+- Uma `relação` é um subconjunto do produto cartesiano entre dois conjuntos.
 
 - A relação `R` = {(1, 4), (1, 5), (2, 4), (3, 6)} é um subconjunto do produto cartesiano entre `A` e `B`.
 
@@ -26,11 +26,11 @@
 
 #### Definição de domínio, contradomínio e imagem
 
-- O domínio de uma função é o conjunto de todos os elementos do primeiro conjunto `A` da relação .
+- O `domínio` de uma função é o conjunto de todos os elementos do primeiro conjunto `A` da relação .
 
-- O contradomínio de uma função é o conjunto de todos os elementos do segundo conjunto `B` da relação.
+- O `contradomínio` de uma função é o conjunto de todos os elementos do segundo conjunto `B` da relação.
 
-- A imagem de uma função é o conjunto de todos os elementos do contradomínio `B` que estão associados a algum elemento do domínio `A`.
+- A `imagem` de uma função é o conjunto de todos os elementos do contradomínio `B` que estão associados a algum elemento do domínio `A`.
 
 - Considere a relação `R` = {(1, 4), (1, 5), (2, 4), (3, 6)}. O domínio de `R` é {1, 2, 3}, o contradomínio de `R` é {4, 5, 6} e a imagem de `R` é {4, 5, 6}.
 

@@ -3,23 +3,23 @@
 
 #### Exemplo 1 - Função constante
 
-- A função constante é uma função que tem o mesmo valor para qualquer valor de x. É representada por `f(x) = k`, onde `k` é uma constante. Uma reta horizontal é um exemplo de função constante.
+- A `função constante` é uma função que tem o mesmo valor para qualquer valor de x. É representada por `f(x) = k`, onde `k` é uma constante. Uma reta horizontal é um exemplo de função constante.
 
 #### Exemplo 2 - Função linear
 
-- A função linear é uma função que tem a forma de uma reta. É representada por `f(x) = ax + b`, onde `a` e `b` são constantes. A inclinação da reta é dada por `a` e o ponto onde a reta intercepta o eixo y é dado por `b`.
+- A `função linear` é uma função que tem a forma de uma reta. É representada por `f(x) = ax + b`, onde `a` e `b` são constantes. A inclinação da reta é dada por `a` e o ponto onde a reta intercepta o eixo y é dado por `b`.
 
 #### Exemplo 3 - Função quadrática
 
-- A função quadrática é uma função que tem a forma de um parábola. É representada por `f(x) = ax^2 + bx + c`, onde `a`, `b` e `c` são constantes. A inclinação da parábola é dada por `a` e o ponto onde a parábola intercepta o eixo y é dado por `c`.
+- A `função quadrática` é uma função que tem a forma de um parábola. É representada por `f(x) = ax^2 + bx + c`, onde `a`, `b` e `c` são constantes. A inclinação da parábola é dada por `a` e o ponto onde a parábola intercepta o eixo y é dado por `c`.
 
 #### Exemplo 4 - Função polinomial de grau N
 
-- A função polinomial de grau N é uma função que tem a forma de uma curva. É representada por `f(x) = a0 + a1*x + a2*x^2 + ... + an*x^n`, onde `a0`, `a1`, `a2`, ..., `an` são constantes. A inclinação da curva é dada por `an` e o ponto onde a curva intercepta o eixo y é dado por `a0`.
+- A `função polinomial` de grau N é uma função que tem a forma de uma curva. É representada por `f(x) = a0 + a1*x + a2*x^2 + ... + an*x^n`, onde `a0`, `a1`, `a2`, ..., `an` são constantes. A inclinação da curva é dada por `an` e o ponto onde a curva intercepta o eixo y é dado por `a0`.
 
 #### Exemplo 5 - Função racional
 
-- A função racional é uma função que tem a forma de uma curva. É representada por `f(x) = p(x)/q(x)`, onde `p(x)` e `q(x)` são polinômios. A inclinação da curva é dada por `p(x)` e o ponto onde a curva intercepta o eixo y é dado por `q(x)`.
+- A `função racional` é uma função que tem a forma de uma curva. É representada por `f(x) = p(x)/q(x)`, onde `p(x)` e `q(x)` são polinômios. A inclinação da curva é dada por `p(x)` e o ponto onde a curva intercepta o eixo y é dado por `q(x)`.
 
 #### Exemplo 6 - Função trigonométrica
 

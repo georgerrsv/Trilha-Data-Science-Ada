@@ -4,7 +4,7 @@
 
 #### Questão 1.
 
-- Considere a seguinte função real: f(x) = (4x - 2) / (x^2 - 2x - 8). Qual seu domínio?
+- Considere a seguinte função real: `f(x) = (4x - 2) / (x^2 - 2x - 8)`. Qual seu domínio?
 
 ##### Resolução
 
@@ -12,7 +12,7 @@
 
 #### Questão 2.
 
-- Qual a imagem da função real a seguir? f(x) = 2x^2 - 5
+- Qual a imagem da função real a seguir? `f(x) = 2x^2 - 5`
 
 ##### Resolução
 
@@ -20,7 +20,7 @@
 
 #### Questão 3.
 
-- Considere a função: f(x) = sin(x), esta função trigonométrica é dita periódica, pois seus valores são repetidos periodicamente. Plote o gráfico da função e responda: qual o período da função?
+- Considere a função: `f(x) = sin(x)`, esta função trigonométrica é dita periódica, pois seus valores são repetidos periodicamente. Plote o gráfico da função e responda: qual o período da função?
 
 ##### Resolução
 
@@ -28,7 +28,7 @@
 
 #### Questão 4.
 
-- Considere a função: f(x) = Ln(1 / (4x^2 + 1)), se enxergamos esta função como a composição de três funções, f(x) = gohok(x) = g(h(k(x))), quais são as funções g(x), h(x) e k(x)?
+- Considere a função: `f(x) = Ln(1 / (4x^2 + 1))`, se enxergamos esta função como a composição de três funções, f(x) = gohok(x) = g(h(k(x))), quais são as funções g(x), h(x) e k(x)?
 
 ##### Resolução
 
@@ -36,7 +36,7 @@
 
 #### Questão 5.
 
-- Determine a inversa da função sigmoidal: f(x), 1 / (1 + e^-x).
+- Determine a inversa da função sigmoidal: `f(x), 1 / (1 + e^-x)`.
 
 ##### Resolução
 
