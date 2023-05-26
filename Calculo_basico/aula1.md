@@ -23,3 +23,11 @@
 - Uma relação `R` é uma função se, e somente se, para todo elemento x do domínio de `R` existe um único elemento y do contradomínio de `R` tal que (x, y) pertence a `R`.
 
 - Uma função é uma relação que associa cada elemento de um conjunto a um único elemento de outro conjunto.
+
+#### Definição de domínio, contradomínio e imagem
+
+- O domínio de uma função é o conjunto de todos os elementos do primeiro conjunto `A` da relação .
+
+- O contradomínio de uma função é o conjunto de todos os elementos do segundo conjunto `B` da relação.
+
+- A imagem de uma função é o conjunto de todos os elementos do contradomínio `B` que estão associados a algum elemento do domínio `A`.
