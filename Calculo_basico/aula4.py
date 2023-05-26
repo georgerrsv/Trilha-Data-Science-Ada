@@ -1,10 +1,10 @@
-#Gráficos utilizados na aula 4
+# Gráficos utilizados na aula 4
 
 import numpy as np
 import matplotlib.pyplot as plt
 
 
-#Função constante
+# Função constante
 fig = plt.figure(figsize=(8, 5))
 plt.title('Função constante')
 
@@ -15,7 +15,7 @@ plt.plot(x, y)
 plt.show()
 
 
-#Função linear
+# Função linear
 fig = plt.figure(figsize=(8, 5))
 plt.title('Função linear')
 
@@ -26,7 +26,7 @@ plt.plot(x, y)
 plt.show()
 
 
-#Função quadrática
+# Função quadrática
 fig = plt.figure(figsize=(8, 5))
 plt.title('Função quadrática')
 
@@ -36,7 +36,7 @@ y = 5 + 5*x**2
 plt.plot(x, y)
 plt.show()
 
-#Função polinomial
+# Função polinomial
 fig = plt.figure(figsize=(8, 5))
 plt.title('Função polinomial')
 
@@ -46,7 +46,7 @@ y = x**3 - 2*x**2 + 5*x - 10
 plt.plot(x, y)
 plt.show()
 
-#Função racional
+# Função racional
 fig = plt.figure(figsize=(8, 5))
 plt.title('Função racional')
 
@@ -56,7 +56,7 @@ y = 1/(x**2 + 1)
 plt.plot(x, y)
 plt.show()
 
-#Função trigonométrica
+# Função trigonométrica
 fig = plt.figure(figsize=(8, 5))
 plt.title('Função trigonométrica, cosseno')
 
@@ -66,7 +66,7 @@ y = np.cos(x)
 plt.plot(x, y)
 plt.show()
 
-#Função exponencial
+# Função exponencial
 fig = plt.figure(figsize=(8, 5))
 plt.title('Função exponencial')
 
@@ -76,7 +76,7 @@ y = np.exp(x)
 plt.plot(x, y)
 plt.show()
 
-#Função sigmoide
+# Função sigmoide
 fig = plt.figure(figsize=(8, 5))
 plt.title('Função sigmoide')
 
