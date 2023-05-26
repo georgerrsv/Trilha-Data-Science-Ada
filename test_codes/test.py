@@ -12,7 +12,7 @@ def verifica_par():
 verifica_par()
 
 def check_negativo():
-    x = float(input("Digite um número: "))
+    x = int(input("Digite um número: "))
     if (x < 0):
         print("O número é negativo.")
     else:
