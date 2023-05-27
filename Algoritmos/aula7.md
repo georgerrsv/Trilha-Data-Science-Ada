@@ -16,15 +16,15 @@
 
 - A seguir será apresentado um exemplo de array:
     
-        - `array = ["a", "b", "c", "d", "e"]`
+        - array = ["a", "b", "c", "d", "e"]
     
-        - Nesse exemplo, o elemento na posição 4 é a letra `"e"`.
+        - Nesse exemplo, o elemento na posição 4 é a letra "e".
 
 - A seguir será apresentado um exemplo de lista de listas:
     
-            - `lista = [[1, 2, 3], [4, 5, 6], [7, 8, 9]]`
+            - lista = [[1, 2, 3], [4, 5, 6], [7, 8, 9]]
     
-            - Nesse exemplo, o elemento na posição 1 é a `lista [4, 5, 6]`.
+            - Nesse exemplo, o elemento na posição 1 é a lista [4, 5, 6].
 
 - O uso de arrays e listas nos permite agrupar valores que são relacionados entre si, e assim, facilitar o acesso a esses valores.
 

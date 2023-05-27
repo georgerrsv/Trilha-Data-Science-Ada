@@ -17,7 +17,7 @@
           print(x + y)
         
         soma()
-      ```
+    ```
 
 #### Parâmetros
 
@@ -30,7 +30,7 @@
           print(x + y)
         
         soma(1, 2)
-      ```
+    ```
 
 #### Retorno
 
@@ -43,6 +43,6 @@
           return x + y
         
         print(soma(1, 2))
-      ```
+    ```
 
 - Uma das vantagens da função é que elas podem estar isoladas do fluxo principal do programa, ou seja, podem ser criadas em um arquivo separado e serem importadas para o arquivo principal.

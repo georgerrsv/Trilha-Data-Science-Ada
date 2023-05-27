@@ -10,7 +10,6 @@
 
 ##### Exemplo de pseudocódigo
 
-    ```
     INICIO principal
         VAR opc_escolhida: STRING
         VAR valor: INTEIRO
@@ -56,4 +55,3 @@
         ESPERAR_DIGITACAO -> opc_escolhida
         RETORNAR opc_escolhida
     FIM mostrar_menu
-    ```
