@@ -15,7 +15,7 @@
 
 - Observe o programa abaixo e responda: o que o código mostra na tela ao ser executado (inclusive, o que foi digitado pelo usuário)?
     
-        ```
+        ```TEXT
         REAL a, b
         ESCREVA "Digite um número: "
         LEIA a
@@ -35,7 +35,7 @@
 
 - Observe o código:
 
-        ```
+        ```TEXT
         CARACTER senha
         INTEIRO i
 
@@ -65,7 +65,7 @@
 
 - Observe o código:
 
-        ```
+        ```TEXT
         - INTEIRO x1, x2
         - REAL res
         - ESCREVA "digite um número positivo"
@@ -87,7 +87,7 @@
 
 - Sabendo que < é o operador relacional menor que, analise o código abaixo:
     
-        ```
+        ```TEXT
         - INTEIRO x, i, t, e
         - REAL a
 
@@ -112,7 +112,7 @@
 
 - PARA é um comando que repete um bloco de código um determinado número de vezes e que possui uma variávei(i) que conta o número de iterações realizadas. Sabendo que v(n) e u(n) são vetores de tamanho n, que armazenam números reais, escolha a alternativa que contém a saída do programa abaixo.
 
-        ```
+        ```TEXT
         - INTEIRO i, n
         - REAL v(5), u(5)
 
