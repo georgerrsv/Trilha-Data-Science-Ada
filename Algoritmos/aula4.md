@@ -17,7 +17,7 @@
     - Exemplo de algoritmo:
 
         ```python
-        def main():
+        def aprovado():
             nota = int(input("Digite a nota do aluno: "))
 
             if(nota >= 6):
