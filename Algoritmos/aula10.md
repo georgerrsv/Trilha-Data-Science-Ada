@@ -69,46 +69,46 @@ e) SE(Nome é vazio E CPF é vazio) PARE
 
 - Observe o código a seguir:
 
-    INICIO
-        ESCREVA "--- Moisés, bem-vindo ao App da poupança ---"
+        INICIO
+            ESCREVA "--- Moisés, bem-vindo ao App da poupança ---"
 
-        INTEIRO i
-        REAL valor, saldo, poupanca
+            INTEIRO i
+            REAL valor, saldo, poupanca
 
-        saldo <- 1000.00
-        poupanca <- 500.00
-        i <- 0
+            saldo <- 1000.00
+            poupanca <- 500.00
+            i <- 0
 
-        ENQUANTO i != 3 FAÇA
-            ESCREVA "Digite 1 para APLICAR, 2 para RESGATAR ou 3 para SAIR: "
-            LEIA i
-            SE i == 1 ENTAO
-                ESCREVA "Digite o valor a ser aplicado: "
-                LEIA valor
-                SE valor > saldo ENTAO FAÇA
-                    ESCREVA "Saldo insuficiente"
-                SENAO FAÇA
-                    saldo <- saldo - valor
-                    poupanca <- poupanca + valor
-                    ESCREVA "Aplicação realizada com sucesso"
-                FIM SE
-            SENAO FAÇA
-                SE i == 2 ENTAO
-                    ESCREVA "Digite o valor a ser resgatado: "
+            ENQUANTO i != 3 FAÇA
+                ESCREVA "Digite 1 para APLICAR, 2 para RESGATAR ou 3 para SAIR: "
+                LEIA i
+                SE i == 1 ENTAO
+                    ESCREVA "Digite o valor a ser aplicado: "
                     LEIA valor
-                    SE valor > poupanca ENTAO FAÇA
+                    SE valor > saldo ENTAO FAÇA
                         ESCREVA "Saldo insuficiente"
+                    SENAO FAÇA
+                        saldo <- saldo - valor
+                        poupanca <- poupanca + valor
+                        ESCREVA "Aplicação realizada com sucesso"
+                    FIM SE
+                    SENAO FAÇA
+                        SE i == 2 ENTAO
+                            ESCREVA "Digite o valor a ser resgatado: "
+                            LEIA valor
+                            SE valor > poupanca ENTAO FAÇA
+                                ESCREVA "Saldo insuficiente"
                     SENAO FAÇA
                         saldo <- saldo + valor
                         poupanca <- poupanca - valor
                         ESCREVA "Resgate realizado com sucesso"
                     FIM SE
-                SENAO FAÇA
-                    ESCREVA "Até logo!"
+                    SENAO FAÇA
+                        ESCREVA "Até logo!"
+                    FIM SE
                 FIM SE
-            FIM SE
-        FIM ENQUANTO
-    FIM
+            FIM ENQUANTO
+        FIM
 
 - Utilizando o programa acima, Moisés realizou um resgate seguido de uma aplicação. Seguem Mensagens mostradas na tela ao final da execução do programa, inclusive dos valores informados por Moisés.
 
