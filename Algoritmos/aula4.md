@@ -12,7 +12,7 @@
 
 - A seguir será apresentado um exemplo de decisão em um algoritmo:
 
-    - Se o aluno for aprovado, o aluno será aprovado, caso contrário, o aluno será reprovado.
+    - Se o aluno obtiver nota >= 6, o aluno será aprovado, caso contrário, o aluno será reprovado.
 
     - Exemplo de algoritmo:
 
