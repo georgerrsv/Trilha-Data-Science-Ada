@@ -15,7 +15,7 @@
 
 - Observe o programa abaixo e responda: o que o código mostra na tela ao ser executado (inclusive, o que foi digitado pelo usuário)?
     
-        ```TEXT
+        ```
         REAL a, b
         ESCREVA "Digite um número: "
         LEIA a
@@ -35,7 +35,7 @@
 
 - Observe o código:
 
-        ```TEXT
+        ```
         CARACTER senha
         INTEIRO i
 
@@ -65,21 +65,21 @@
 
 - Observe o código:
 
-        ```TEXT
-        - INTEIRO x1, x2
-        - REAL res
-        - ESCREVA "digite um número positivo"
-        - LEIA x1
-        - ESCREVA "digite outro número positivo"
-        - LEIA x2
+        ```
+        INTEIRO x1, x2
+        REAL res
+        ESCREVA "digite um número positivo"
+        LEIA x1
+        ESCREVA "digite outro número positivo"
+        LEIA x2
 
-        - SE (x1 > x2) ENTAO
-            - res <- (x1 - x2) / x1
-        - SENAO FAÇA
-            - res <- (x2 - x1) / x2
-        - FIM_SE
+        SE (x1 > x2) ENTAO
+            res <- (x1 - x2) / x1
+        SENAO FAÇA
+            res <- (x2 - x1) / x2
+        FIM_SE
 
-        - ESCREVA res
+        ESCREVA res
         ```
 - Qual alternativa representa corretamente a última linha impressa pelo programa para os seguintes pares de valores [n1, n2], respectivamente: [3, 12], [5, 5], [10, 8]?
 
@@ -87,24 +87,24 @@
 
 - Sabendo que < é o operador relacional menor que, analise o código abaixo:
     
-        ```TEXT
-        - INTEIRO x, i, t, e
-        - REAL a
+        ```
+        INTEIRO x, i, t, e
+        REAL a
 
-        - ESCREVA "Digite um número: "
-        - LEIA x
+        ESCREVA "Digite um número: "
+        LEIA x
     
-        - i <- 0
-        - t <- 0
+        i <- 0
+        t <- 0
 
         ENQUANTO i < x FAÇA
-            - ESCREVA "Digite um número: "
-            - LEIA e
-            - t <- t + e
-            - i <- i + 1
+            ESCREVA "Digite um número: "
+            LEIA e
+            t <- t + e
+            i <- i + 1
         FIM_ENQUANTO
-        - a <- t / x
-        - ESCREVA i, a
+        a <- t / x
+        ESCREVA i, a
         ```
 - Ao executar o programa acima, qual será a última linha impressa na tela se os valores digitados pelo usuário forem, nessa ordem: 5, 3, 4, 5, 4, 5?
 
@@ -112,21 +112,20 @@
 
 - PARA é um comando que repete um bloco de código um determinado número de vezes e que possui uma variávei(i) que conta o número de iterações realizadas. Sabendo que v(n) e u(n) são vetores de tamanho n, que armazenam números reais, escolha a alternativa que contém a saída do programa abaixo.
 
-        ```TEXT
-        - INTEIRO i, n
-        - REAL v(5), u(5)
+        
+        INTEIRO i, n
+        REAL v(5), u(5)
 
-        -v(1) <- 2.0
-        -v(2) <- 3.0
-        -v(3) <- 4.0
-        -v(4) <- 5.0
-        -v(5) <- 6.0
+        v(1) <- 2.0
+        v(2) <- 3.0
+        v(3) <- 4.0
+        v(4) <- 5.0
+        v(5) <- 6.0
 
-        - n <- 5
+        n <- 5
 
-        - PARA i DE 1 ATÉ n FAÇA
-            - u(i) <- v(i) * i
-        - FIM_PARA
-
+        PARA i DE 1 ATÉ n FAÇA
+            u(i) <- v(i) * i
+        FIM_PARA
         ESCREVA u(2), u(4)
-        ```
+        
