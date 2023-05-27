@@ -15,14 +15,14 @@
 
 - Observe o programa abaixo e responda: o que o código mostra na tela ao ser executado (inclusive, o que foi digitado pelo usuário)?
     
-        ```
+        
         REAL a, b
         ESCREVA "Digite um número: "
         LEIA a
         ESCREVA "Digite outro número: "
         LEIA b
         ESCREVA "a * b = ", a * b
-        ```
+        
 #### Questão 2.
 
 - São dados os seguintes comandos:
@@ -35,7 +35,7 @@
 
 - Observe o código:
 
-        ```
+        
         CARACTER senha
         INTEIRO i
 
@@ -52,7 +52,7 @@
         FIM_ENQUANTO
 
         ESCREVA "Seja bem-vindo(a) à área do cliente"
-        ```
+        
 - Márcia, uma cliente, utiliza o programa acima para acessar a área do cliente e, após 7 tentativas de digitar a senha, visualiza a mensagem de boas vindas. Sabendo disso, qual é o valor armazenado em i ao final da execução do programa?
 
 #### Questão 3.
@@ -65,7 +65,7 @@
 
 - Observe o código:
 
-        ```
+        
         INTEIRO x1, x2
         REAL res
         ESCREVA "digite um número positivo"
@@ -80,14 +80,14 @@
         FIM_SE
 
         ESCREVA res
-        ```
+        
 - Qual alternativa representa corretamente a última linha impressa pelo programa para os seguintes pares de valores [n1, n2], respectivamente: [3, 12], [5, 5], [10, 8]?
 
 #### Questão 4.
 
 - Sabendo que < é o operador relacional menor que, analise o código abaixo:
     
-        ```
+        
         INTEIRO x, i, t, e
         REAL a
 
@@ -105,7 +105,7 @@
         FIM_ENQUANTO
         a <- t / x
         ESCREVA i, a
-        ```
+        
 - Ao executar o programa acima, qual será a última linha impressa na tela se os valores digitados pelo usuário forem, nessa ordem: 5, 3, 4, 5, 4, 5?
 
 #### Questão 5.
