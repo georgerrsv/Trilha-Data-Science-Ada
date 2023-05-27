@@ -19,3 +19,11 @@ def check_negativo():
         print("O número é positivo.")
 
 check_negativo()
+
+def aprovado():
+    nota = int(input("Digite a nota do aluno: "))
+    
+    if(nota >= 6):
+        print("Aluno aprovado")
+    else :
+        print("Aluno reprovado")
