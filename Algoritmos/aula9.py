@@ -1,5 +1,3 @@
-## Exemplo de código para aula 9, caixa eletrônico
-
 class caixa_eletronico():
 
     def __init__(self, nome, acc_numero, saldo = 0):
@@ -13,13 +11,17 @@ class caixa_eletronico():
         print(f"Deposito de R${self.deposito} realizado com sucesso!")
         print(f"Seu saldo atual é de R${self.saldo}")
     
-    def saque(self, saque):
+    def saque(self, saque, notas = [100, 50, 20, 10, 5, 2, 1]):
         self.saque = saque
+        self.notas = notas
         if self.saque > self.saldo:
             print("Saldo insuficiente!")
         else:
-            self.saldo -= self.saque
-            print(f"Saque de R${self.saque} realizado com sucesso!")
+            for i in self.notas:
+                while self.saque >= i:
+                    print(f"Nota de R${i}")
+                    self.saque -= i
+            self.saldo -= saque
             print(f"Seu saldo atual é de R${self.saldo}")
 
     def extrato(self):
