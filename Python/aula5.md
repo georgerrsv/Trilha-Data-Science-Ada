@@ -131,3 +131,52 @@ lista = [1, 2, 3, 4, 5]
 lista2 = lista[1:3] # [2, 3]
 ```
 Neste exemplo, a lista `lista2` é uma fatia da lista `lista`. Então, se alterarmos a lista `lista2`, a lista `lista` não será alterada.
+
+
+##### Funções de lista
+
+#### 1. Len:
+
+```python
+lista = [1, 2, 3, 4, 5]
+len(lista) # 5
+```
+
+Neste exemplo, a função `len()` retorna o tamanho da lista.
+
+#### 2. Max:
+
+```python
+lista = [1, 2, 3, 4, 5]
+max(lista) # 5
+```
+
+Neste exemplo, a função `max()` retorna o maior elemento da lista.
+
+#### 3. Min:
+
+```python
+lista = [1, 2, 3, 4, 5]
+min(lista) # 1
+```
+
+Neste exemplo, a função `min()` retorna o menor elemento da lista.
+
+#### 4. Sum:
+
+```python
+lista = [1, 2, 3, 4, 5]
+sum(lista) # 15
+```
+
+Neste exemplo, a função `sum()` retorna a soma dos elementos da lista.
+
+#### 5. Enumerate:
+
+```python
+lista = [1, 2, 3, 4, 5]
+for indice, valor in enumerate(lista):
+    print(indice, valor)
+```
+
+Neste exemplo, a função `enumerate()` retorna uma tupla com o índice e o valor de cada elemento da lista.
