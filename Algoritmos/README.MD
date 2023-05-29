@@ -4,7 +4,7 @@
 
 ## Tópicos abordados:
 
-- [Aula 2] Fluxos simples sequencial
+- [Aula 2 - Fluxos simples e sequencial](https://github.com/georgerrsv/Trilha-Data-Science-Ada/blob/main/Algoritmos/aula2.md)
 - [Aula 3] Tipos de dados
 - [Aula 4] Decisão
 - [Aula 5] Repetição
