@@ -1,6 +1,6 @@
 ## Disciplina de Python
 
-### Aula 5 - Mdétodos e funções de listas
+### Aula 5 - Métodos e funções de listas
 
 #### Introdução
 
