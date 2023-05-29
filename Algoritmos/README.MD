@@ -4,14 +4,14 @@
 
 ## Tópicos abordados:
 
-- [Aula 2 - Fluxos simples e sequencial](https://github.com/georgerrsv/Trilha-Data-Science-Ada/blob/main/Algoritmos/aula2.md)
-- [Aula 3] Tipos de dados
-- [Aula 4] Decisão
-- [Aula 5] Repetição
-- [Aula 6] Lista de exercícios
-- [Aula 7] Listas e arrays
-- [Aula 8] Funções
-- [Aula 9] Pseudocódigo
-- [Aula 10] Lista de exercícios
+- [Fluxos simples e sequencial](https://github.com/georgerrsv/Trilha-Data-Science-Ada/blob/main/Algoritmos/aula2.md)
+- [Tipos de dados](https://github.com/georgerrsv/Trilha-Data-Science-Ada/blob/main/Algoritmos/aula3.md)
+- [Decisão](https://github.com/georgerrsv/Trilha-Data-Science-Ada/blob/main/Algoritmos/aula4.md)
+- [Repetição](https://github.com/georgerrsv/Trilha-Data-Science-Ada/blob/main/Algoritmos/aula5.md)
+- [Lista de exercícios](https://github.com/georgerrsv/Trilha-Data-Science-Ada/blob/main/Algoritmos/aula6.md)
+- [Listas e Arrays](https://github.com/georgerrsv/Trilha-Data-Science-Ada/blob/main/Algoritmos/aula7.md)
+- [Funções](https://github.com/georgerrsv/Trilha-Data-Science-Ada/blob/main/Algoritmos/aula8.md)
+- [Pseudocódigo](https://github.com/georgerrsv/Trilha-Data-Science-Ada/blob/main/Algoritmos/aula9.md)
+- [Lista de exercícios](https://github.com/georgerrsv/Trilha-Data-Science-Ada/blob/main/Algoritmos/aula10.md)
 
 ##### Os códigos apresentados ajudam a exemplificar os conceitos apresentados nas aulas.
