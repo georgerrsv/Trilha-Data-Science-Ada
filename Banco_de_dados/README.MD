@@ -6,3 +6,4 @@
 
 - [Introdução](https://github.com/georgerrsv/Trilha-Data-Science-Ada/blob/main/Banco_de_dados/aula1.md)
 - [Modelagem de dados](https://github.com/georgerrsv/Trilha-Data-Science-Ada/blob/main/Banco_de_dados/aula2.md)
+- [Normalização](https://github.com/georgerrsv/Trilha-Data-Science-Ada/blob/main/Banco_de_dados/aula3.md)
