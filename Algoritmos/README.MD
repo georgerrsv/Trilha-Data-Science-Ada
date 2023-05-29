@@ -14,4 +14,4 @@
 - [Aula 9] Pseudocódigo
 - [Aula 10] Lista de exercícios
 
-## Os códigos apresentados ajudam a exemplificar os conceitos apresentados nas aulas.
+##### Os códigos apresentados ajudam a exemplificar os conceitos apresentados nas aulas.
