@@ -4,12 +4,14 @@
 
 ## Tópicos abordados:
 
-- [Aula - II] Fluxos-simples-sequencial
-- [Aula - III] Tipos-de-dados
-- [Aula - IV] Decisão
-- [Aula - V] Repetição
-- [Aula - VI] Lista-de-exercícios
-- [Aula - VII] Listas-e-arrays
-- [Aula - VIII] Funções
-- [Aula - IX] Pseudocódigo
-- [Aula - X] Lista-de-exercícios
+- [Aula 2] Fluxos simples sequencial
+- [Aula 3] Tipos de dados
+- [Aula 4] Decisão
+- [Aula 5] Repetição
+- [Aula 6] Lista de exercícios
+- [Aula 7] Listas e arrays
+- [Aula 8] Funções
+- [Aula 9] Pseudocódigo
+- [Aula 10] Lista de exercícios
+
+## Os códigos apresentados ajudam a exemplificar os conceitos apresentados nas aulas.
