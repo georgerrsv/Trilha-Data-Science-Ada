@@ -4,4 +4,4 @@
 
 #### São utilizadas as seguintes ferramentas:
 
-- [Python](https://www.python.org/)
+- [Python](https://www.github.com/)
