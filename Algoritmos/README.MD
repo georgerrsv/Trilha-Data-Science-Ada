@@ -4,7 +4,7 @@
 
 ## Tópicos abordados:
 
-- [Aula II - Fluxos simples sequencial](#https://github.com/georgerrsv/Trilha-Data-Science-Ada/blob/main/Algoritmos/aula2.md)
+- [Aula II - Fluxos simples sequencial](#topico)
 - [Aula III - Tipos de dados](#https://github.com/georgerrsv/Trilha-Data-Science-Ada/blob/main/Algoritmos/aula3.md)
 - [Aula IV - Decisão](#https://github.com/georgerrsv/Trilha-Data-Science-Ada/blob/main/Algoritmos/aula4.md)
 - [Aula V - Repetição](#https://github.com/georgerrsv/Trilha-Data-Science-Ada/blob/main/Algoritmos/aula5.md)
