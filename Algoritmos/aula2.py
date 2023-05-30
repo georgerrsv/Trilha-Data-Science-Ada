@@ -9,8 +9,10 @@ print(soma(1, 2))
 
 # Exemplo 2 - Função soma com input do usuário
 
-x = int(input())
-y = int(input())
+def soma_com_parametro():
+    a = float(input("Digite o valor de a = "))
+    b = float(input("Digite o valor de b = "))
+    
+    return print("A soma de a + b é = ", a + b)
 
-soma = x + y
-print(soma)
+soma_com_parametro()
