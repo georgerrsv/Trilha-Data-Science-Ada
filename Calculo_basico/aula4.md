@@ -1,4 +1,4 @@
-## Discipleina de Cálculo Básico
+## Disciplina de Cálculo Básico
 ### Aula 4 - Exemplos de funções utilizando as bibliotecas NumPy e Matplotlib
 
 #### Exemplo 1 - Função constante
